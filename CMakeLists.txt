@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.8 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.1 FATAL_ERROR)
 project(warp_perspective)
 
 find_package(Torch REQUIRED)
